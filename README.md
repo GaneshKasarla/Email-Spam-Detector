@@ -56,5 +56,4 @@ streamlit run app.py
 - Deploy the project online
 
 ## Author
-
-Ganni
+Kasarla Ganesh Bharadwaj
